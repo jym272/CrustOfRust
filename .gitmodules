@@ -1,0 +1,3 @@
+[submodule "strsplit"]
+	path = strsplit
+	url = https://github.com/jym272/strsplit
