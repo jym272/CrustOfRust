@@ -1,3 +1,6 @@
 [submodule "strsplit"]
 	path = strsplit
 	url = https://github.com/jym272/strsplit
+[submodule "vecmac"]
+	path = vecmac
+	url = https://github.com/jym272/vecmac
