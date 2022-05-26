@@ -4,3 +4,6 @@
 [submodule "vecmac"]
 	path = vecmac
 	url = https://github.com/jym272/vecmac
+[submodule "iterators-rust"]
+	path = iterators-rust
+	url = https://github.com/jym272/iterators-rust
