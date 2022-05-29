@@ -13,3 +13,6 @@
 [submodule "channel-implementation-rust"]
 	path = channel-implementation-rust
 	url = https://github.com/jym272/channel-implementation-rust.git
+[submodule "sorting-algotithms-rust"]
+	path = sorting-algotithms-rust
+	url = https://github.com/jym272/sorting-algotithms-rust.git
