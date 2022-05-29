@@ -10,3 +10,6 @@
 [submodule "pointers-interior_mutability"]
 	path = pointers-interior_mutability
 	url = https://github.com/jym272/pointers-interior_mutability
+[submodule "channel-implementation-rust"]
+	path = channel-implementation-rust
+	url = https://github.com/jym272/channel-implementation-rust.git
