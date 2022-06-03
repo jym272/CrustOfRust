@@ -19,3 +19,6 @@
 [submodule "subtyping-variance-rust"]
 	path = subtyping-variance-rust
 	url = https://github.com/jym272/subtyping-variance-rust.git
+[submodule "drop-check-rust-"]
+	path = drop-check-rust-
+	url = https://github.com/jym272/drop-check-rust-.git
